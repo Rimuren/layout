@@ -2,4 +2,4 @@
 ## 362358302099
 
 
-![Screenshot_Image](assets\images\hasil.png)
+![Screenshot](assets\images\hasil.png)
